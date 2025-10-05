@@ -1,0 +1,35 @@
+[33mcommit fb48f7d28149b28a3d031931538f8f2530f62940[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mStroganovIP[m[33m)[m
+Author: Ilya <nonestroganov@yandex.ru>
+Date:   Sun Oct 5 13:49:00 2025 +0300
+
+    added an addition operation
+
+[33mcommit 5a5b821c2dcc8d057fc0dbde932698736bc1ff5b[m[33m ([m[1;31morigin/StroganovIP[m[33m)[m
+Author: Ilya <nonestroganov@yandex.ru>
+Date:   Sun Oct 5 13:44:12 2025 +0300
+
+    added .gitignore to exclude unnecessary files
+
+[33mcommit 14103c76fdd99c45f88084f38a05e92f2f49e557[m
+Author: Ilya <nonestroganov@yandex.ru>
+Date:   Sun Oct 5 13:35:23 2025 +0300
+
+    added the input of two integers with invitations
+
+[33mcommit 3e238a83a4cc86ecb0b09b6b8410dcfa3d26a5e0[m
+Author: Ilya <nonestroganov@yandex.ru>
+Date:   Sun Oct 5 13:29:12 2025 +0300
+
+    a basic program file with Hello World output has been created
+
+[33mcommit ef35fc333e30040d20f4f72cbe503547b46c95d7[m
+Author: Ilya <nonestroganov@yandex.ru>
+Date:   Sun Oct 5 13:22:46 2025 +0300
+
+    a new file has been added
+
+[33mcommit 7dcba0ea3b4927bc0e1dda6a328adc106cb4bb3f[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Ilya <nonestroganov@yandex.ru>
+Date:   Sun Oct 5 13:17:53 2025 +0300
+
+    Initial commit
